@@ -1,0 +1,56 @@
+[
+    {
+        "id": "M001",
+        "price": 55.00,
+        "description": "A convenient roadside motel with clean rooms, ideal for short stays and budget travelers.",
+        "name": "Highway Rest Motel",
+        "status": "Available",
+        "image": "/public/motel-1.jpg",
+        "facilities": ["Free Wi-Fi", "24-Hour Reception", "Free Parking", "Vending Machines", "Pet Friendly"]
+    },
+    {
+        "id": "M002",
+        "price": 65.00,
+        "description": "A family-friendly motel with spacious rooms and close to local attractions.",
+        "name": "Family Haven Motel",
+        "status": "Available",
+        "image": "/public/motel-2.jpg",
+        "facilities": ["Free Wi-Fi", "Playground", "Continental Breakfast", "Laundry Facilities", "Pet Friendly"]
+    },
+    {
+        "id": "M003",
+        "price": 45.00,
+        "description": "A basic motel offering affordable accommodation for travelers on the go.",
+        "name": "Traveler's Choice Motel",
+        "status": "Booked",
+        "image": "/public/motel-3.jpg",
+        "facilities": ["Free Wi-Fi", "Free Parking", "Cable TV", "24-Hour Reception", "Vending Machines"]
+    },
+    {
+        "id": "M004",
+        "price": 50.00,
+        "description": "An economical option with essential amenities and close proximity to the highway.",
+        "name": "Budget Stay Motel",
+        "status": "Available",
+        "image": "/public/motel-4.jpg",
+        "facilities": ["Free Wi-Fi", "24-Hour Reception", "Free Parking", "Microwave in Rooms", "Pet Friendly"]
+    },
+    {
+        "id": "M005",
+        "price": 60.00,
+        "description": "A cozy, rustic-style motel with outdoor seating and BBQ facilities.",
+        "name": "Lakeside Lodge Motel",
+        "status": "Available",
+        "image": "/public/motel-5.jpg",
+        "facilities": ["Free Wi-Fi", "BBQ Area", "Lake View", "Pet Friendly", "Outdoor Seating"]
+    },
+    {
+        "id": "M006",
+        "price": 70.00,
+        "description": "A modernized motel with comfortable rooms and easy access to nearby restaurants.",
+        "name": "Modern Stay Motel",
+        "status": "Under Maintenance",
+        "image": "/public/motel-6.jpg",
+        "facilities": ["Free Wi-Fi", "Flat-Screen TV", "Air Conditioning", "24-Hour Reception", "Nearby Dining Options"]
+    }
+]

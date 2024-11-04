@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Sunset Beach Resort",
+        "price": 150,
+        "image": "/public/resort-1.jpg",
+        "facilities": ["WiFi", "Swimming Pool", "Spa", "Gym", "Restaurant"],
+        "description": "A serene getaway on the beach offering breathtaking sunsets, luxurious spa services, and fine dining options."
+    },
+    {
+        "id": 2,
+        "name": "Mountain View Retreat",
+        "price": 200,
+        "image": "/public/resort-2.jpg",
+        "facilities": ["WiFi", "Hiking Trails", "Hot Tub", "Breakfast Included", "Pet-Friendly"],
+        "description": "Nestled in the mountains, this resort is perfect for nature lovers, offering beautiful hiking trails and cozy accommodations."
+    },
+    {
+        "id": 3,
+        "name": "Lakeside Paradise",
+        "price": 180,
+        "image": "/public/resort-3.jpg",
+        "facilities": ["Free Parking", "Water Sports", "Kids Playground", "Outdoor Pool", "Free Breakfast"],
+        "description": "A family-friendly resort by the lake with water sports and activities for all ages, offering a peaceful and fun experience."
+    },
+    {
+        "id": 4,
+        "name": "Desert Oasis",
+        "price": 220,
+        "image": "/public/resort-4.jpg",
+        "facilities": ["Free WiFi", "Infinity Pool", "Spa", "Desert Safari", "Restaurant"],
+        "description": "Experience the beauty of the desert at this luxury resort with modern amenities and desert safari tours."
+    },
+    {
+        "id": 5,
+        "name": "Island Escape Resort",
+        "price": 300,
+        "image": "/public/resort-5.jpg",
+        "facilities": ["Private Beach", "All-Inclusive", "Spa", "Free WiFi", "Poolside Bar"],
+        "description": "An exclusive island resort with private beaches and all-inclusive luxury services for a relaxing and private experience."
+    },
+    {
+        "id": 6,
+        "name": "Urban Oasis Hotel",
+        "price": 170,
+        "image": "/public/resort-6.jpg",
+        "facilities": ["WiFi", "Rooftop Pool", "Fitness Center", "Bar", "Airport Shuttle"],
+        "description": "A stylish resort in the heart of the city with a rooftop pool and views of the skyline, perfect for urban travelers."
+    }
+]

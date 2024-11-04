@@ -1,0 +1,56 @@
+[
+    {
+        "id": "H001",
+        "price": 120.00,
+        "description": "A luxurious five-star hotel located in the heart of the city with stunning views and exceptional service.",
+        "name": "Grand Central Hotel",
+        "status": "Available",
+        "image": "/hotel-1.webp",
+        "facilities": ["Free Wi-Fi", "Swimming Pool", "Spa", "Fitness Center", "Restaurant", "24/7 Room Service"]
+    },
+    {
+        "id": "H002",
+        "price": 85.00,
+        "description": "A cozy, modern hotel near the beach, ideal for families and couples alike.",
+        "name": "Coastal Paradise Inn",
+        "status": "Available",
+        "image": "/hotel-2.jpg",
+        "facilities": ["Free Wi-Fi", "Beach Access", "Breakfast Included", "Parking", "Pet Friendly"]
+    },
+    {
+        "id": "H003",
+        "price": 150.00,
+        "description": "A high-end resort offering premium amenities and direct access to scenic mountain trails.",
+        "name": "Mountain View Resort",
+        "status": "Booked",
+        "image": "/hotel-3.jpg",
+        "facilities": ["Free Wi-Fi", "Spa", "Outdoor Pool", "Hiking Trails", "Complimentary Breakfast", "Fireplace"]
+    },
+    {
+        "id": "H004",
+        "price": 75.00,
+        "description": "A budget-friendly hotel located near popular tourist spots with comfortable rooms.",
+        "name": "City Lodge",
+        "status": "Available",
+        "image": "/hotel-4.avif",
+        "facilities": ["Free Wi-Fi", "24-Hour Reception", "Parking", "Business Center", "Laundry Service"]
+    },
+    {
+        "id": "H005",
+        "price": 200.00,
+        "description": "An elegant boutique hotel with personalized service and uniquely designed rooms.",
+        "name": "The Heritage Boutique",
+        "status": "Available",
+        "image": "/hotel-5.avif",
+        "facilities": ["Free Wi-Fi", "Spa", "Complimentary Breakfast", "Airport Shuttle", "Room Service", "Garden"]
+    },
+    {
+        "id": "H006",
+        "price": 95.00,
+        "description": "A beachfront hotel with spectacular ocean views and on-site dining options.",
+        "name": "Ocean Breeze Hotel",
+        "status": "Under Maintenance",
+        "image": "hotel-6.avif",
+        "facilities": ["Free Wi-Fi", "Beach Access", "Outdoor Pool", "Restaurant", "Room Service", "Gym"]
+    }
+]

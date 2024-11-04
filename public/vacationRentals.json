@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Seaside Cottage",
+        "price": 130,
+        "image": "/public/vr-1.jpg",
+        "facilities": ["Ocean View", "Private Balcony", "Free WiFi", "Pet-Friendly", "Kitchen"],
+        "description": "A charming seaside cottage with beautiful ocean views, a private balcony, and all the comforts of home."
+    },
+    {
+        "id": 2,
+        "name": "Downtown Loft",
+        "price": 150,
+        "image": "/public/vr-2.jpg",
+        "facilities": ["WiFi", "Smart TV", "Self Check-In", "Fitness Center Access", "Pet-Friendly"],
+        "description": "Modern and stylish loft in the heart of downtown, close to cafes, shops, and public transit. Perfect for urban explorers."
+    },
+    {
+        "id": 3,
+        "name": "Mountain Cabin",
+        "price": 110,
+        "image": "/public/vr-3.jpg",
+        "facilities": ["Fireplace", "Hiking Trails", "Outdoor Grill", "Free Parking", "Kitchen"],
+        "description": "A cozy cabin tucked in the mountains, complete with a fireplace, outdoor grill, and access to beautiful trails."
+    },
+    {
+        "id": 4,
+        "name": "Tropical Villa",
+        "price": 270,
+        "image": "/public/vr-4.jpg",
+        "facilities": ["Private Pool", "Garden", "WiFi", "Fully Equipped Kitchen", "Airport Shuttle"],
+        "description": "A luxurious villa surrounded by tropical gardens, featuring a private pool and a fully equipped kitchen."
+    },
+    {
+        "id": 5,
+        "name": "Lake House Retreat",
+        "price": 190,
+        "image": "/public/vr-5.jpg",
+        "facilities": ["Lake Access", "Kayaks Included", "Outdoor Fire Pit", "WiFi", "Pet-Friendly"],
+        "description": "This lakefront rental offers direct access to the lake, kayaks for guests, and an outdoor fire pit for cozy evenings."
+    },
+    {
+        "id": 6,
+        "name": "Countryside Cottage",
+        "price": 100,
+        "image": "/public/vr-6.jpg",
+        "facilities": ["WiFi", "Garden View", "Fireplace", "Kitchen", "Free Parking"],
+        "description": "A peaceful countryside cottage with garden views and cozy amenities, ideal for a relaxing getaway in nature."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Coastal Guesthouse",
+        "price": 90,
+        "image": "https://example.com/images/coastal_guesthouse.jpg",
+        "facilities": ["Ocean View", "WiFi", "Shared Kitchen", "Free Breakfast", "Pet-Friendly"],
+        "description": "A friendly guesthouse with stunning ocean views, offering free breakfast and a shared kitchen for guests."
+    },
+    {
+        "id": 2,
+        "name": "City Center Guesthouse",
+        "price": 100,
+        "image": "https://example.com/images/city_center_guesthouse.jpg",
+        "facilities": ["WiFi", "Lounge Area", "Daily Housekeeping", "24/7 Front Desk", "Airport Shuttle"],
+        "description": "Conveniently located in the city center, this guesthouse provides easy access to local attractions with excellent amenities."
+    },
+    {
+        "id": 3,
+        "name": "Countryside Inn",
+        "price": 75,
+        "image": "https://example.com/images/countryside_inn.jpg",
+        "facilities": ["Garden View", "Free Parking", "WiFi", "Outdoor Seating", "Pet-Friendly"],
+        "description": "A peaceful guesthouse in the countryside with beautiful garden views and outdoor seating areas for relaxation."
+    },
+    {
+        "id": 4,
+        "name": "Mountain View Guesthouse",
+        "price": 85,
+        "image": "https://example.com/images/mountain_view_guesthouse.jpg",
+        "facilities": ["Mountain View", "WiFi", "Shared Kitchen", "Hiking Trails", "Fireplace"],
+        "description": "Nestled in the mountains, this guesthouse offers stunning views, access to hiking trails, and a cozy fireplace."
+    },
+    {
+        "id": 5,
+        "name": "Historic Downtown Guesthouse",
+        "price": 120,
+        "image": "https://example.com/images/historic_downtown_guesthouse.jpg",
+        "facilities": ["WiFi", "Breakfast Included", "Pet-Friendly", "Garden", "Daily Housekeeping"],
+        "description": "A charming guesthouse in the historic district, blending modern amenities with classic architecture and a lovely garden."
+    },
+    {
+        "id": 6,
+        "name": "Lakeside Guesthouse",
+        "price": 110,
+        "image": "https://example.com/images/lakeside_guesthouse.jpg",
+        "facilities": ["Lake Access", "Free WiFi", "Outdoor BBQ", "Kayaks Available", "Free Parking"],
+        "description": "A relaxing lakeside retreat with direct lake access, offering kayaks for guests and an outdoor BBQ area."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Woodland Lodge",
+        "price": 120,
+        "image": "/public/lodge-1.jpg",
+        "facilities": ["Fireplace", "Hiking Trails", "Free Parking", "Pet-Friendly", "WiFi"],
+        "description": "A cozy lodge nestled in the woods, perfect for a quiet retreat with beautiful hiking trails and rustic charm."
+    },
+    {
+        "id": 2,
+        "name": "Riverside Lodge",
+        "price": 140,
+        "image": "/public/lodge-2.jpg",
+        "facilities": ["Fishing", "Barbecue Area", "WiFi", "Outdoor Fire Pit", "Free Breakfast"],
+        "description": "Located by the river, this lodge offers fishing and barbecue facilities, making it ideal for nature enthusiasts."
+    },
+    {
+        "id": 3,
+        "name": "Mountain Top Lodge",
+        "price": 160,
+        "image": "/public/lodge-3.jpg",
+        "facilities": ["Ski-in/Ski-out", "Hot Tub", "WiFi", "Ski Rentals", "Restaurant"],
+        "description": "A high-altitude lodge perfect for winter sports lovers with direct access to ski slopes and a relaxing hot tub."
+    },
+    {
+        "id": 4,
+        "name": "Safari Lodge",
+        "price": 250,
+        "image": "/public/lodge-4.jpg",
+        "facilities": ["Guided Safari Tours", "Outdoor Pool", "Restaurant", "Bar", "WiFi"],
+        "description": "Experience the wilderness with guided safari tours and stay in comfort with luxurious amenities and an outdoor pool."
+    },
+    {
+        "id": 5,
+        "name": "Lakeview Lodge",
+        "price": 135,
+        "image": "/public/lodge-5.jpg",
+        "facilities": ["Lake Access", "Kayak Rentals", "Free Parking", "WiFi", "Fire Pit"],
+        "description": "A peaceful lodge by the lake, offering kayak rentals and a scenic environment perfect for relaxation."
+    },
+    {
+        "id": 6,
+        "name": "Forest Haven Lodge",
+        "price": 115,
+        "image": "/public/lodge-6.jpg",
+        "facilities": ["Hiking Trails", "Bird Watching", "Free WiFi", "Breakfast Included", "Pet-Friendly"],
+        "description": "An eco-friendly lodge in the forest, ideal for nature lovers and bird watchers, with comfortable rooms and complimentary breakfast."
+    }
+]
